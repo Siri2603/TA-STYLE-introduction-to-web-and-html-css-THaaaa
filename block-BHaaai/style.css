@@ -1,0 +1,34 @@
+body {
+  background-color: #22396a;
+  color: white;
+  line-height: 10px;
+}
+.header {
+  text-align: center;
+}
+h3 {
+  color: #31bb66;
+}
+h5 {
+  text-align: center;
+}
+p {
+  font-size: 12px;
+  line-height: 20px;
+}
+.size {
+  font-size: 15px;
+}
+a {
+  color: red;
+  font-size: 12px;
+}
+.margin {
+  margin-left: 25px;
+  text-align: center;
+}
+.footer {
+  text-align: center;
+  background-color: #11244d;
+  margin-bottom: 50px;
+}
