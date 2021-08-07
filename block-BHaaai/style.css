@@ -3,13 +3,11 @@ body {
   color: white;
   line-height: 10px;
 }
-#home {
-}
-h1 {
+.header {
   text-align: center;
 }
 h3 {
-  color: green;
+  color: #31bb66;
 }
 h5 {
   text-align: center;
@@ -29,9 +27,8 @@ a {
   margin-left: 25px;
   text-align: center;
 }
-footer {
-  height: 40px;
+.footer {
   text-align: center;
-  background-color: darkblue;
+  background-color: #11244d;
   margin-bottom: 50px;
 }
