@@ -6,8 +6,11 @@ p {
   color: royalblue;
 }
 h4 {
-  color: red;
+  color: darkred;
 }
 .content {
-  color: grey;
+  color: darkgray;
+}
+body {
+  background-color: lightslategray;
 }
