@@ -1,0 +1,22 @@
+body {
+  background-color: #22396a;
+  color: white;
+  line-height: 10px;
+}
+h3 {
+  color: green;
+}
+p {
+  font-size: 12px;
+  line-height: 20px;
+}
+.size {
+  font-size: 15px;
+}
+a {
+  color: red;
+  font-size: 12px;
+}
+.margin {
+  margin-left: 25px;
+}
