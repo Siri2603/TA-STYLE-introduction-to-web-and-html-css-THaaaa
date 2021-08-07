@@ -13,12 +13,6 @@ p {
 .size {
   font-size: 15px;
 }
-ul {
-  list-style: none;
-  font-size: 12px;
-  text-align: left;
-  line-height: 20px;
-}
 a {
   color: red;
   font-size: 12px;
